@@ -1,0 +1,25 @@
+header {
+    background-image: url('https://media.istockphoto.com/id/1487773835/vector/abstract-circuit-board-futuristic-technology-processing-background.jpg?s=612x612&w=0&k=20&c=FN18dfvtsCJjfuJCRPmYY24aL-593Hc3ebkxhBmwgyE=');
+    background-size: cover;
+    height: 4/3vw;
+    width: 100%;
+    margin: 0;
+    color: aliceblue;
+    font-family: "Pixelify Sans";
+    font-weight: 400;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 8vw;
+    -webkit-text-stroke: 1px black;
+}
+
+h2 {
+    font-size: 5vw;
+    -webkit-text-stroke: 1px black;
+}
